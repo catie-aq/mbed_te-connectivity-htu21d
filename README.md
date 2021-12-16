@@ -1,5 +1,5 @@
-# TE HTU21D(F) Humidity Sensor driver
+# TE-Connectivity HTU21D(F) Humidity Sensor driver
 
-TE HTU21D(F) driver
+TE-Connectivity HTU21D(F) driver
 
-<!-- Describe `HTU21D` library here -->
+An mbed C++ driver for the TE-Connectivity HTU21D(F) humidity sensors.
